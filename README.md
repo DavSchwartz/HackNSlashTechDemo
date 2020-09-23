@@ -1,5 +1,5 @@
 # HackNSlashTechDemo
-Hack & Slash game made with the NDSU Bison Robotics Video Game Development Club
+Hack & Slash game made with the NDSU Bison Robotics Video Game Development Club  
 Namely [Ruben Tipparach](https://github.com/RubenTipparach)
 
 ![](WhatsUpDawg.png)

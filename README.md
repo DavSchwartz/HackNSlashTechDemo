@@ -7,5 +7,5 @@ Namely [Ruben Tipparach](https://github.com/RubenTipparach)
 ![](fight.png)
 
 ## How to play
-Run that HackandSlash.exe
-Click to fight and move!
+1. Run that HackandSlash.exe  
+2. Click to fight and move!
